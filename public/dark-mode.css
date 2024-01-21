@@ -1,0 +1,22 @@
+
+body {
+    background-color: #333;
+    color: #fff;
+
+}
+
+header, footer {
+    background-color: #222;
+    padding: 10px;
+}
+
+nav a {
+    color: #ddd;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    color: #fff;
+}
+
